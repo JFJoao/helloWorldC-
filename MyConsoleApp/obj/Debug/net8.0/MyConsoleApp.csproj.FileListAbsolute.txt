@@ -1,0 +1,15 @@
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\João Felipe\Desktop\projetosC\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
